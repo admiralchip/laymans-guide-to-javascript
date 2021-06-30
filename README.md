@@ -2,7 +2,7 @@
 Layman's Guide to Javascript
 
 
-### Definitions:
+### Definitions of words:
 
 **Expression:** Code that produces a value
 
