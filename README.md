@@ -1,5 +1,5 @@
-# laymans-guide-to-javascript
-Layman's Guide to Javascript
+# Layman's Guide to Javascript
+A compilation of my notes on Javascript
 
 
 ### Definitions of words
