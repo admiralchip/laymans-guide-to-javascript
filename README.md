@@ -6,4 +6,4 @@ Layman's Guide to Javascript
 
 **Expression:** Code that produces a value
 
-**Binding:** Something that stores a value
+**Binding:** Something that stores a value. This value can be changed.
