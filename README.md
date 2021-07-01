@@ -8,7 +8,9 @@ A compilation of my notes on Javascript
 
 **Binding:** Something that stores a value; a variable. This value can be changed. It can also be a function.
 
-**const:** One of the keywords used to make a binding. Short form of "constant".
+**const:** One of the keywords used to make a binding. Short form of "constant". Use this when you intend that the value remains the same.
+
+**let:** One of the keywords used to make a binding. Use this when you intend that another value will be assigned to that binding.
 
 ### Javascript Functions
 
