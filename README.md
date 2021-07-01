@@ -14,9 +14,11 @@ A compilation of my notes on Javascript
 
 They may or may not have parameters. Example of a function:
 
-`function(x) {
+```
+function(x) {
   // statements
-}`
+}
+```
 
 where x = parameter
 
