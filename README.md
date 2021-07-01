@@ -14,6 +14,10 @@ A compilation of my notes on Javascript
 
 **Parameter:** Value passed to a function through the caller of that function.
 
+**Scope:** Refers to the visibility of a binding. 
+
+
+
 ### Javascript Functions
 
 They may or may not have parameters. Example of a function:
@@ -27,3 +31,4 @@ function(x) {
 where x = parameter
 
 `Number()` : returns a value as a number
+
