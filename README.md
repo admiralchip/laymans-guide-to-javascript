@@ -12,6 +12,8 @@ A compilation of my notes on Javascript
 
 **let:** One of the keywords used to make a binding. Use this when you intend that another value will be assigned to that binding.
 
+**Parameter:** Value passed to a function through the caller of that function.
+
 ### Javascript Functions
 
 They may or may not have parameters. Example of a function:
