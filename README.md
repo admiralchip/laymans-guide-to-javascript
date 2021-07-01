@@ -12,4 +12,12 @@ A compilation of my notes on Javascript
 
 ### Javascript Functions
 
+They may or may not have parameters. Example of a function:
+
+`function(x) {
+  // statements
+}`
+
+where x = parameter
+
 `Number()` : returns a value as a number
