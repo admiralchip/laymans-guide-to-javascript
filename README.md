@@ -6,7 +6,7 @@ A compilation of my notes on Javascript
 
 **Expression:** Code that produces a value
 
-**Binding:** Something that stores a value. This value can be changed.
+**Binding:** Something that stores a value; a variable. This value can be changed. It can also be a function.
 
 **const:** One of the keywords used to make a binding. Short form of "constant".
 
