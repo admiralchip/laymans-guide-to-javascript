@@ -31,4 +31,5 @@ function(x) {
 where x = parameter
 
 `Number()` : returns a value as a number
+`charAt()` : can be used to access a character in a string
 
